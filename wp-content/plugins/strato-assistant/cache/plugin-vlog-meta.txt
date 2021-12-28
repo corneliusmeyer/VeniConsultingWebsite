@@ -1,0 +1,474 @@
+a:1:{s:14:"gallery-videos";a:28:{s:4:"name";s:37:"Video Gallery &#8211; YouTube Gallery";s:4:"slug";s:14:"gallery-videos";s:7:"version";s:5:"1.6.3";s:6:"author";s:48:"<a href="https://total-soft.com/">Total-Soft</a>";s:14:"author_profile";s:40:"https://profiles.wordpress.org/totalsoft";s:8:"requires";s:3:"3.4";s:6:"tested";s:3:"5.8";s:12:"requires_php";b:0;s:6:"rating";i:96;s:7:"ratings";a:5:{i:5;i:128;i:4;i:0;i:3;i:2;i:2;i:1;i:1;i:6;}s:11:"num_ratings";i:137;s:15:"support_threads";i:25;s:24:"support_threads_resolved";i:24;s:10:"downloaded";i:297839;s:12:"last_updated";s:21:"2021-07-23 1:57pm GMT";s:5:"added";s:10:"2016-07-08";s:8:"homepage";s:40:"https://total-soft.com/wp-video-gallery/";s:8:"sections";a:5:{s:11:"description";s:7281:"<h4>Useful Links:</h4>
+<ul>
+<li><a href="https://total-soft.com/wp-video-gallery/" rel="nofollow ugc">WordPress Video Gallery</a></li>
+<li><a href="https://total-soft.com/wp-video-gallery-grid/" rel="nofollow ugc">Video Gallery Demo</a> </li>
+<li><a href="http://total-soft.pe.hu/gallery-video-faq/" rel="nofollow ugc">Video Gallery FAQ</a></li>
+<li><a href="http://total-soft.pe.hu/gallery-video-user-manual/" rel="nofollow ugc">Video Gallery User Manual</a></li>
+<li><a href="https://wordpress.org/support/plugin/gallery-videos">Video Gallery Support</a></li>
+</ul>
+<p>The software is responsive user friendly and can really enhance the reiting of your site when people search for related topics and videos whether on Youtube, Vimeo and Wistia or search engines in general. Getting your Youtube, Vimeo or Wistia extension working is straightforward with a few simple steps required to build this great video resources on your WordPress site. The benefits of the gallery plugin are already making a real difference for all kinds of sites from business oriented to hobby or entertainment pages. The great thing about the Gallery is that it allows users to express their creative editing skills when composing a video collection slideshow or even workshop and information content. Being able to engage with site visitors this way directly with gallery also helps to make your site much more reiting.</p>
+<h4>Fully responsive</h4>
+<p>Plugin is designed to be shown clearly and neatly on any screen size. No matter how small your device screens are it will automatically adjust to fit on that screens and display perfectly.</p>
+<p>Plugin created for those who realy appreciate the beauty and taste. You can display your videos in high quality and best design.</p>
+<p>Most powerful features</p>
+<ul>
+<li>User friendly editor.</li>
+<li>Nice and sleek lightbox.</li>
+<li>Video Galleries themes &#8211; 16 free version.</li>
+<li>Beautiful and Fantastic for the hover effects.</li>
+<li>Responsive and touch friendly.</li>
+<li>Gallery 9 Layouts.</li>
+<li>Video Lightbox effect.</li>
+<li>Hover effetcs.</li>
+<li>Gallery pagination.</li>
+<li>Unlimited shortcode Generator.</li>
+<li>All description text color, size and text align control.</li>
+<li>Edit galleries and add/edit/delete.</li>
+<li>Support all major WordPress versions.</li>
+<li>Supports multiple categories for viewing the Video.</li>
+<li>Support YouTube, Vimeo, Wistia, MP4.</li>
+<li>Unlimited videos (YouTube, Vimeo, Wistia &amp; MP4).</li>
+<li>Gallery animations that run smoothly on modern devices.</li>
+<li>Video Gallery plugin plays nice with your existing HTML and CSS, making it a great choice for responsive layouts.</li>
+<li>Add custom link on single videos in gallery views.</li>
+<li>Speed, effects, locations, and more are all changeable.</li>
+<li>Gallery animations that run smoothly on modern devices.</li>
+<li>Unlimited zooms on page. No need to alter or compromise your gallery design.</li>
+<li>24/7 technical support.</li>
+<li><a href="//wordpress.org/support/plugin/gallery-videos" rel="nofollow ugc">Best rated free support</a></li>
+</ul>
+<p><a href="https://total-soft.com/wp-video-gallery/" rel="nofollow ugc">The features of the premium version</a></p>
+<ul>
+<li><strong>Background Color</strong> &#8211; Can choose background color (title, description overlay and hover).</li>
+<li><strong>Font style</strong> &#8211; This plugin allows to change the color of the title, font size and font family.</li>
+<li><strong>Border and Radius</strong> &#8211; Borders and radius have additional options to customize the design and style of this gallery elements interface.</li>
+<li><strong>Color</strong> &#8211; The plugin allows to change the color and enter it in the colors of your site.</li>
+<li><strong>Icon</strong> &#8211; Possibility select the right and the left icons for gallery which are for change the videos by sequence.</li>
+<li><strong>Icon Color</strong> &#8211; You can select a color of the icon.</li>
+<li><strong>Close Icon Size</strong> &#8211; Possibility choose a size for close icon which has intended to return to the gallery from the lightbox.</li>
+<li><strong>Effects</strong> &#8211; Possibility choose effects for hover, title, link, description and e.t.c.</li>
+<li><a href="https://total-soft.com/wp-video-gallery-effective/" rel="nofollow ugc">Effective Gallery Template &#8211; Demo</a></li>
+<li><a href="https://total-soft.com/wp-video-gallery-album/" rel="nofollow ugc">Album Gallery Template- Demo</a></li>
+</ul>
+<h4>Hover Effect.</h4>
+<p>Plugin is really rich with hover effects. More about 100+ unrepeatable and multifunctional featers. You can use titles, links and icons with Hover effect. They also made by animation effect. Your video made by Videos Gallery will be really the best one on the WordPress website.</p>
+<h4>Provide Unlimited Themes</h4>
+<p>Video Gallery plugin includes a large bouquet of various themes specially designed for your page.</p>
+<h4>Main features</h4>
+<ul>
+<li>
+<p>Your videos gallery now gets more diverse by using Scale, Rotate, Translate and Skew effects for overlay. Plus hover duration and delay time are configurable.</p>
+</li>
+<li>
+<p>Enter page url &#8211; Go your web page and copy page link then past page link in url box.</p>
+</li>
+</ul>
+<h4>Effects features</h4>
+<p>Plugin has 100+ effects features which can create an unrepeatable Video Gallery any WordPress website. Plugin is updated regulary. It is very easy for use as well as functions makes it ideal in your website.</p>
+<p>Video Gallery plugin has his own ID number. Simply you must copy it and paste to that place where you want to see your gallery plugin.</p>
+<p>[Total_Soft_Gallery_Video id=&#8221;1&#8243;]</p>
+<p>Plugin plays nice with your existing HTML and CSS making it a great choice for responsive layouts.</p>
+<h4>Creating an Gallery</h4>
+<p>Title &#8211; Set the gallery name in which the videos should be placed.</p>
+<p>Option &#8211; Choose the option created by yourself which you have created for gallery by your preferred effects, colors, fonts and so on.</p>
+<p>Show Type/ Per Page &#8211; Here you Can write quantity how many videos you want to see in one page. Associated which version did you select.</p>
+<p>Show all &#8211; This option will show all the videos continuing one another in one page.</p>
+<p>Pagination &#8211; It will be shown for so long how many you marke for every page. Will be divided by pages.</p>
+<p>Load More &#8211; Also, in this option the videos will succeed to each other. Simply the other videos wil be displayed by &#8220;Load More&#8221;.</p>
+<h4>Add Video</h4>
+<p>Title &#8211; Write a title for each video.</p>
+<p>Description &#8211; Write some information about content gallery.</p>
+<p>Link &#8211; You can add another link for move to another page.</p>
+<h4>Technical Support</h4>
+<ul>
+<li>If you notice any errors or have any questions with our gallery, you can notify us. We will investigate and solve the problem. Check out the <a href="https://wordpress.org/support/plugin/gallery-videos">Video Gallery Support Forum</a> on our website. If you don&#8217;t find a solution to your question here, don&#8217;t hesitate to <a href="https://total-soft.com/contact-us/" rel="nofollow ugc">click here to contact us</a>.</li>
+</ul>
+";s:12:"installation";s:323:"<p>Here&#8217;s how you install and activate the Video Gallery plugin:</p>
+<p>Download the plugin.<br />
+Upload the .zip file in your WordPress plugin directory.<br />
+Activate the plugin from the &#8220;Plugins&#8221; menu in WordPress.<br />
+After activating video gallery choose the type of version you wish to use.</p>
+";s:3:"faq";s:2931:"
+<dt id='1%29.%20there%20are%20some%20restrictions%20for%20adding%20videos%3F'>
+1). There are some restrictions for adding videos?
+</h4>
+<p>
+<ul>
+<li>There is no limit for the amount of videos. </li>
+<li>You can add as many videos as you want. Plugin has no limitations.</li>
+</ul>
+</p>
+<dt id='2%29.%20when%20i%20update%20plugin%20free%20version%20of%20the%20commercial%20version%20i%20lose%20all%20the%20things%20that%20i%20have%20made%20up%20in%20the%20free%20version%3F'>
+2). When I update plugin free version of the commercial version i lose all the things that I have made up in the free version?
+</h4>
+<p>
+<ul>
+<li>Of course no. Total Soft team was thought about this problem.</li>
+<li>Before that what was created in the free version will remain unless you delete and replace the commercial version.</li>
+</ul>
+</p>
+<dt id='3%29.%20can%20i%20add%20url%20for%20each%20video%20with%20linking%3F'>
+3). Can I add URL for each video with linking?
+</h4>
+<p>
+<ul>
+<li>Yes. Every video has that opportunity . You will see that in the &#8220;New Gallery&#8221; section.</li>
+<li>Also you may choose to open the new page or not.</li>
+</ul>
+</p>
+<dt id='4%29.%20how%20to%20add%20youtube%20or%20vimeo%20video%20in%20gallery%3F'>
+4). How to add YouTube or Vimeo video in gallery?
+</h4>
+<p>
+<ul>
+<li>Enter the name of the Gallery.</li>
+<li>Enter the URL of the video.</li>
+<li>Enter to website and choose the video. Copy the URL of that video and then paste it to the link window and your Video is ready. In general gallery the videos will be shown by pictures. Which will be created automatically taken. Clicking on the picture will open the lightbox by that you can see the videos.</li>
+</ul>
+</p>
+<dt id='5%29.%20may%20i%20add%20my%20own%20video%20in%20wordpress%3F'>
+5). May I add my own video in WordPress?
+</h4>
+<p>
+<ul>
+<li>Yes. This plugin is only accepts mp4 format of videos. Just You need to upload video from your computer. You need to upload an image for that video. This format doesn&#8217;t automatically create thumbnails and doesn?t create an image.</li>
+</ul>
+</p>
+<dt id='6%29.%20why%20i%20can%20not%20add%20my%20video%3F'>
+6). Why I can not add my video?
+</h4>
+<p>
+<ul>
+<li>The problem is that your video is not suitable for use or must be from Youtube, Vimeo, Wistia or mp4 and most importantly the must be public and not private.</li>
+</ul>
+</p>
+<dt id='7%29.%20how%20many%20gallery%20may%20i%20create%20for%20wordpress%20website%3F'>
+7). How many Gallery may I create for WordPress website?
+</h4>
+<p>
+<ul>
+<li>You may create unlimited Galleries by this plugin through our options.</li>
+</ul>
+</p>
+<dt id='8%29.%20how%20to%20include%20the%20gallery%20post%20or%20page%3F'>
+8). How to include the Gallery Post or Page?
+</h4>
+<p>
+<ul>
+<li>Every Gallery has its own ID number. Simply you must copy it and paste to that place where you want to see.</li>
+</ul>
+<p>[Total_Soft_Gallery_Video id=&#8221;8&#8243;]</p>
+</p>
+
+";s:9:"changelog";s:10213:"<h4>Version 1.6.3</h4>
+<ul>
+<li>Changed the responsiveness for the space gallery type.</li>
+</ul>
+<h4>Version 1.6.2</h4>
+<ul>
+<li>Changed function for &#8220;loading&#8221;</li>
+</ul>
+<h4>Version 1.6.1</h4>
+<ul>
+<li>Fixed bug in popup content. The problem was with the description.</li>
+<li>Fixed problem with url.</li>
+</ul>
+<h4>Version 1.6.0</h4>
+<ul>
+<li>Added function for links.</li>
+<li>Changed update code for video.</li>
+</ul>
+<h4>Version 1.5.9</h4>
+<ul>
+<li>Fixed a small issue with links.</li>
+</ul>
+<h4>Version 1.5.8</h4>
+<ul>
+<li>Fixed bug. In the &#8220;Grid&#8221; version, the next and prev in the lightbox did not work.</li>
+<li>Fixed bug. The video did not work in the &#8220;Content Popup&#8221; version.</li>
+</ul>
+<h4>Version 1.5.7</h4>
+<ul>
+<li>Fixed a small issue with the lightbox.</li>
+<li>Fixed issue in lightbox type. YouTube video was shown incorrectly.</li>
+</ul>
+<h4>Version 1.5.6</h4>
+<ul>
+<li>Fixed a bug in the admin panel. After copying the gallery it was not possible to make edits.</li>
+</ul>
+<h4>Version 1.5.5</h4>
+<ul>
+<li>Fixed bug on type Thumbnails. When the link was clicked it didn&#8217;t work.</li>
+<li>Fixed bug on Lightbox type. The pop-up did not hit the center of the screen.</li>
+<li>Fixed a bug on the Parallax Engine type. The problem hit with YouTube.</li>
+</ul>
+<h4>Version 1.5.4</h4>
+<ul>
+<li>Fixed issue rated to YouTube videos. After adding a lot of videos on the site, the plugin worked very slowly.</li>
+</ul>
+<h4>Version 1.5.3</h4>
+<ul>
+<li>Parallax versions solved the problem with the lightbox. There were themes where a lightbox was shown very below.</li>
+<li>Grid version solved the mp4 problem.</li>
+<li>Changes related to YouTube. When automatically creates an image.</li>
+<li>Changes in the admin panel related to the buttons.</li>
+</ul>
+<h4>Version 1.5.2</h4>
+<ul>
+<li>Fixed bug in &#8216;Grid&#8217; version. On the page was showed codes.</li>
+<li>Fixed bug in grid version. mp4 format did not show the video.</li>
+</ul>
+<h4>Version 1.5.1</h4>
+<ul>
+<li>Added function for Fancy Type.</li>
+<li>Added the ability to add mp4 video via the link.</li>
+<li>Fixed bug when opening lightbox.</li>
+<li>Fixed bug with base.</li>
+</ul>
+<h4>Version 1.5.0</h4>
+<ul>
+<li>Fixed bug with admin panel.</li>
+</ul>
+<h4>Version 1.4.9</h4>
+<ul>
+<li>Bug fixed: The plugin did not display correctly on the Internet Explorer.</li>
+<li>Bug fixed: When was cloned the type the &#8216;Edit&#8217; field worked incorrectly.</li>
+</ul>
+<h4>Version 1.4.8</h4>
+<ul>
+<li>Name changed.</li>
+</ul>
+<h4>Version 1.4.7</h4>
+<ul>
+<li>Bug fixed: there was a problem with colorpicker with the Avada theme.</li>
+<li>Fixed bug: When you enter the option, sometimes the page just loads.</li>
+</ul>
+<h4>Version 1.4.6</h4>
+<ul>
+<li>Solved the problem with Vistia. There were videos in Vista that did not work.</li>
+<li>Solved the problem with Lightbox type. Two different Lightbox didn&#8217;t work together on the same page.</li>
+<li>Solved problem: When did the clone, the options did not work.</li>
+</ul>
+<h4>Version 1.4.5</h4>
+<ul>
+<li>Fixed a bug in the lightbox type. The image showed large when the site loaded.</li>
+<li>Fixed a problem related with the pagination and load more.</li>
+</ul>
+<h4>Version 1.4.4</h4>
+<ul>
+<li>Fixed a bug in the grid gallery. In the popup when the video was changed, the sound did not turn off and the same problem was beating when the popup was closed.</li>
+<li>Fixed bug in popup. Scroll did not work.</li>
+</ul>
+<h4>Version 1.4.3</h4>
+<ul>
+<li>Added a feature. When Wistia&#8217;s video is added, it automatically creates an image.</li>
+<li>Fixed a bug in the version content popup did not work MP4 format.</li>
+</ul>
+<h4>Version 1.4.2</h4>
+<ul>
+<li>Fixed a bug related to link the video.</li>
+<li>Fixed bug related to Wistia.</li>
+</ul>
+<h4>Version 1.4.1</h4>
+<ul>
+<li>Added a touch opportunity for the responsive type.</li>
+<li>Fixed a bug related to Vimeo video. In the popup did not play the video.</li>
+</ul>
+<h4>Version 1.4.0</h4>
+<ul>
+<li>Added an opportunity to start the video from Your preferred second.</li>
+<li>In the grid version added a few features.</li>
+<li>In the elastic type, added a title opportunity.</li>
+<li>Solved a problem related with the video in widget.</li>
+<li>In the Fancy type added autoplay ability.</li>
+<li>In the grid type fixed a bug related with video.</li>
+<li>In the grid type fixed a bug associated with MP4.</li>
+<li>Fixed a few bugs associated with effects in the thumbnails type.</li>
+<li>In the content gallery changed the light-box design for the responsive types.</li>
+<li>In the content gallery fixed an error associated with link.</li>
+<li>In the classic type changed the responsive ability.</li>
+</ul>
+<h4>Version 1.3.9</h4>
+<ul>
+<li>Added a function in the Grid version: in the content, you can add a link to another site.</li>
+<li>Fixed a bug in the Grid version: when the video effects changed, these did not work correctly.</li>
+<li>Fixed bug with Vimeo and YouTube.</li>
+<li>Fixed a bug in the Content version, the background color did not work.</li>
+<li>Fixed a bug in the Thumbnails version the background did not work.</li>
+</ul>
+<h4>Version 1.3.8</h4>
+<ul>
+<li>In the popup of the Classic type, the video did not open in fullscreen.</li>
+<li>The problem with the admin was corrected.</li>
+</ul>
+<h4>Version 1.3.7</h4>
+<ul>
+<li>Added possibility to live preview the theme settings and video gallery on your page.</li>
+<li>Changed admin menu design.</li>
+<li>Fixed bug in Grid Video Gallery type with pagination effects.</li>
+<li>Fixed the problem with adding a video. It were impossible to add videos.</li>
+<li>Fixed the bug with reading MP4. It were not worked in Fairefox browser.</li>
+<li>The lightbox of Grid Gallery were not worked on the Iphones.</li>
+<li>After clicking on the pagination, instead to change the page it was rising up.</li>
+</ul>
+<h4>Version 1.3.6</h4>
+<ul>
+<li>Added fonts to content.</li>
+<li>Updated text editor.</li>
+<li>Fixed bug with uploading process.</li>
+<li>Fixed syntax error with saving text for description of content.</li>
+</ul>
+<h4>Version 1.3.5</h4>
+<ul>
+<li>Added popup effects in Content Popup type.</li>
+<li>Fixed CSS bugs in Space type.</li>
+<li>Fixed bugs with pagination functions.</li>
+</ul>
+<h4>Version 1.3.4</h4>
+<ul>
+<li>Added pagination effects for all types. </li>
+<li>Fixed CSS bugs in all types.</li>
+</ul>
+<h4>Version 1.3.3</h4>
+<ul>
+<li>Fixed Bug with pagination</li>
+<li>Added effect for pagination. </li>
+</ul>
+<h4>Version 1.3.2</h4>
+<ul>
+<li>Fixed bug in video title saving function.</li>
+</ul>
+<h4>Version 1.3.1</h4>
+<ul>
+<li>Added possibility to make gallery with mp4 format videos.</li>
+</ul>
+<h4>Version 1.3.0</h4>
+<ul>
+<li>Fixed bug with database connection. </li>
+<li>Changed admin menu style.</li>
+</ul>
+<h4>Version 1.2.9</h4>
+<ul>
+<li>Added possibility to make a duplicate for videos inside gallery.</li>
+<li>Changed Admin menu style.</li>
+<li>Elastic Grid: Fixed problem with Vimeo player.</li>
+<li>Grid Gallery: CSS issue with description.</li>
+<li>Content Popup: Changed CSS style for popup icons. Changed Responsive function. Fixed errors with hover effects.</li>
+<li>Parallax Engine: Fixed Popup Title Style. Fixed style with video player.</li>
+<li>Space Type: Fixed CSS issues. Changed Popup Mode effects styles.</li>
+</ul>
+<h4>Version 1.2.8</h4>
+<ul>
+<li>Add New Type &#8220;Space Gallery&#8221;</li>
+<li>Updated function for uploading videos from YouTube. </li>
+</ul>
+<h4>Version 1.2.7</h4>
+<ul>
+<li>Changed uploading part of code, added editing function for uploading process.</li>
+</ul>
+<h4>Version 1.2.6</h4>
+<ul>
+<li>Add New Type &#8220;Classic Gallery&#8221;</li>
+</ul>
+<h4>Version 1.2.5</h4>
+<ul>
+<li>Added a demonstration text to the admin.</li>
+</ul>
+<h4>Version 1.2.4</h4>
+<ul>
+<li>Added functions for showing video thumbnails in high quality if it is possible.</li>
+</ul>
+<h4>Version 1.2.2</h4>
+<ul>
+<li>Updated uploading code from Youtube.</li>
+</ul>
+<h4>Version 1.2.1</h4>
+<ul>
+<li>Added new text editor for making event description.</li>
+<li>In Category &#8221; Total Products &#8221; added new plugin &#8221; Event Calendars &#8221; by Total-Soft.</li>
+</ul>
+<h4>Version 1.2.0</h4>
+<ul>
+<li>Modified the Design Admin Panel.</li>
+</ul>
+<h4>Version 1.1.8</h4>
+<ul>
+<li>Added Wistia video link support.</li>
+</ul>
+<h4>Version 1.1.7</h4>
+<ul>
+<li>Opened some functions for free version.</li>
+</ul>
+<h4>Version 1.1.6</h4>
+<ul>
+<li>Changed function for uploading videos from Youtube.</li>
+<li>Add New Type &#8220;Parallax Engine&#8221;</li>
+</ul>
+<h4>Version 1.1.5</h4>
+<ul>
+<li>Added new menu in the plugin.</li>
+<li>Added function for full screen video view in the thumbnail version.</li>
+</ul>
+<h4>Version 1.1.4</h4>
+<ul>
+<li>Added some features for responsive.</li>
+<li>Fixed a bug with icons.</li>
+<li>Updated style for pagination and load more.</li>
+</ul>
+<h4>Version 1.1.3</h4>
+<ul>
+<li>Fixed responsive options.</li>
+<li>Changed settings for free version.</li>
+</ul>
+<h4>Version 1.1.2</h4>
+<ul>
+<li>Changed responsive options, lightbox options and youtube video player for some types.</li>
+</ul>
+<h4>Version 1.1.1</h4>
+<ul>
+<li>Fixed a bug with the zoom.</li>
+<li>Fixed a bug in gallery lightbox with themes.</li>
+</ul>
+<h4>Version 1.1.0</h4>
+<ul>
+<li>Add New Type &#8220;Fancy Gallery&#8221;</li>
+</ul>
+<h4>Version 1.0.7</h4>
+<ul>
+<li>Added Vimeo link support.</li>
+<li>Fixed responsive options.</li>
+</ul>
+<h4>Version 1.0.6</h4>
+<ul>
+<li>Add New Type &#8220;Elastic Gallery&#8221;</li>
+<li>Fixed responsive options for Thumbnails type.</li>
+</ul>
+<h4>Version 1.0.5</h4>
+<ul>
+<li>Fixed a bug in the version Grid Video Gallery.</li>
+<li>Fixed a problem with the Popup.</li>
+</ul>
+<h4>Version 1.0.4</h4>
+<ul>
+<li>Fixed responsive options</li>
+</ul>
+<h4>Version 1.0.3</h4>
+<ul>
+<li>Add New Type &#8220;Content Popup&#8221;</li>
+<li>Added 2 new photos in the assets.</li>
+</ul>
+<h4>Version 1.0.2</h4>
+<ul>
+<li>Add New Type &#8220;Thumbnails Video&#8221;</li>
+</ul>
+<h4>Version 1.0.1</h4>
+<ul>
+<li>Added Hover Effects for LightBox Video Gallery Version.</li>
+<li>Added After Line effects.</li>
+<li>Added effects for link button.</li>
+</ul>
+<h4>Version 1.0.0</h4>
+<ul>
+<li>Initial Version Release</li>
+</ul>
+";s:11:"screenshots";s:3499:"<ol><li><a href="https://ps.w.org/gallery-videos/assets/screenshot-1.png?rev=1694546"><img src="https://ps.w.org/gallery-videos/assets/screenshot-1.png?rev=1694546" alt="An example of plugin in action - Grid Gallery Type"></a><p>An example of plugin in action - Grid Gallery Type</p></li><li><a href="https://ps.w.org/gallery-videos/assets/screenshot-2.png?rev=1694546"><img src="https://ps.w.org/gallery-videos/assets/screenshot-2.png?rev=1694546" alt="An example of plugin in action - Grid Gallery Type"></a><p>An example of plugin in action - Grid Gallery Type</p></li><li><a href="https://ps.w.org/gallery-videos/assets/screenshot-3.png?rev=1690581"><img src="https://ps.w.org/gallery-videos/assets/screenshot-3.png?rev=1690581" alt="An example of plugin in action - LightBox Gallery Version"></a><p>An example of plugin in action - LightBox Gallery Version</p></li><li><a href="https://ps.w.org/gallery-videos/assets/screenshot-4.png?rev=1719734"><img src="https://ps.w.org/gallery-videos/assets/screenshot-4.png?rev=1719734" alt="An example of plugin in action - LightBox Gallery Version"></a><p>An example of plugin in action - LightBox Gallery Version</p></li><li><a href="https://ps.w.org/gallery-videos/assets/screenshot-5.png?rev=2244781"><img src="https://ps.w.org/gallery-videos/assets/screenshot-5.png?rev=2244781" alt="An example of plugin in action - Thumbnails Video Version"></a><p>An example of plugin in action - Thumbnails Video Version</p></li><li><a href="https://ps.w.org/gallery-videos/assets/screenshot-6.png?rev=2244781"><img src="https://ps.w.org/gallery-videos/assets/screenshot-6.png?rev=2244781" alt="An example of plugin in action - Thumbnails Video Version"></a><p>An example of plugin in action - Thumbnails Video Version</p></li><li><a href="https://ps.w.org/gallery-videos/assets/screenshot-7.png?rev=2244781"><img src="https://ps.w.org/gallery-videos/assets/screenshot-7.png?rev=2244781" alt="An example of plugin in action Video Gallery / Content Popup"></a><p>An example of plugin in action Video Gallery / Content Popup</p></li><li><a href="https://ps.w.org/gallery-videos/assets/screenshot-8.png?rev=2244781"><img src="https://ps.w.org/gallery-videos/assets/screenshot-8.png?rev=2244781" alt="An example of plugin in action Video Gallery / Content Popup"></a><p>An example of plugin in action Video Gallery / Content Popup</p></li><li><a href="https://ps.w.org/gallery-videos/assets/screenshot-9.png?rev=1690581"><img src="https://ps.w.org/gallery-videos/assets/screenshot-9.png?rev=1690581" alt="An example of plugin in action - Elastic Gallery"></a><p>An example of plugin in action - Elastic Gallery</p></li><li><a href="https://ps.w.org/gallery-videos/assets/screenshot-10.png?rev=1690581"><img src="https://ps.w.org/gallery-videos/assets/screenshot-10.png?rev=1690581" alt="An example of plugin in action - Elastic Gallery"></a><p>An example of plugin in action - Elastic Gallery</p></li><li><a href="https://ps.w.org/gallery-videos/assets/screenshot-11.png?rev=1690581"><img src="https://ps.w.org/gallery-videos/assets/screenshot-11.png?rev=1690581" alt="An example of plugin in action - Fancy Gallery"></a><p>An example of plugin in action - Fancy Gallery</p></li><li><a href="https://ps.w.org/gallery-videos/assets/screenshot-12.png?rev=1690581"><img src="https://ps.w.org/gallery-videos/assets/screenshot-12.png?rev=1690581" alt="An example of plugin in action - Parallax Engine"></a><p>An example of plugin in action - Parallax Engine</p></li></ol>";}s:17:"short_description";s:104:"Gallery is a user-friendly plugin to display user or hashtag-based gallery feeds as a responsive&hellip;";s:13:"download_link";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.6.3.zip";s:11:"screenshots";a:12:{i:1;a:2:{s:3:"src";s:67:"https://ps.w.org/gallery-videos/assets/screenshot-1.png?rev=1694546";s:7:"caption";s:50:"An example of plugin in action - Grid Gallery Type";}i:2;a:2:{s:3:"src";s:67:"https://ps.w.org/gallery-videos/assets/screenshot-2.png?rev=1694546";s:7:"caption";s:50:"An example of plugin in action - Grid Gallery Type";}i:3;a:2:{s:3:"src";s:67:"https://ps.w.org/gallery-videos/assets/screenshot-3.png?rev=1690581";s:7:"caption";s:57:"An example of plugin in action - LightBox Gallery Version";}i:4;a:2:{s:3:"src";s:67:"https://ps.w.org/gallery-videos/assets/screenshot-4.png?rev=1719734";s:7:"caption";s:57:"An example of plugin in action - LightBox Gallery Version";}i:5;a:2:{s:3:"src";s:67:"https://ps.w.org/gallery-videos/assets/screenshot-5.png?rev=2244781";s:7:"caption";s:57:"An example of plugin in action - Thumbnails Video Version";}i:6;a:2:{s:3:"src";s:67:"https://ps.w.org/gallery-videos/assets/screenshot-6.png?rev=2244781";s:7:"caption";s:57:"An example of plugin in action - Thumbnails Video Version";}i:7;a:2:{s:3:"src";s:67:"https://ps.w.org/gallery-videos/assets/screenshot-7.png?rev=2244781";s:7:"caption";s:60:"An example of plugin in action Video Gallery / Content Popup";}i:8;a:2:{s:3:"src";s:67:"https://ps.w.org/gallery-videos/assets/screenshot-8.png?rev=2244781";s:7:"caption";s:60:"An example of plugin in action Video Gallery / Content Popup";}i:9;a:2:{s:3:"src";s:67:"https://ps.w.org/gallery-videos/assets/screenshot-9.png?rev=1690581";s:7:"caption";s:48:"An example of plugin in action - Elastic Gallery";}i:10;a:2:{s:3:"src";s:68:"https://ps.w.org/gallery-videos/assets/screenshot-10.png?rev=1690581";s:7:"caption";s:48:"An example of plugin in action - Elastic Gallery";}i:11;a:2:{s:3:"src";s:68:"https://ps.w.org/gallery-videos/assets/screenshot-11.png?rev=1690581";s:7:"caption";s:46:"An example of plugin in action - Fancy Gallery";}i:12;a:2:{s:3:"src";s:68:"https://ps.w.org/gallery-videos/assets/screenshot-12.png?rev=1690581";s:7:"caption";s:48:"An example of plugin in action - Parallax Engine";}}s:4:"tags";a:5:{s:7:"gallery";s:7:"gallery";s:13:"image-gallery";s:13:"image gallery";s:13:"photo-gallery";s:13:"photo gallery";s:13:"video-gallery";s:13:"video gallery";s:24:"wordpress-gallery-plugin";s:24:"wordpress gallery plugin";}s:8:"versions";a:62:{s:5:"1.0.0";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.0.0.zip";s:5:"1.0.1";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.0.1.zip";s:5:"1.0.2";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.0.2.zip";s:5:"1.0.3";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.0.3.zip";s:5:"1.0.4";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.0.4.zip";s:5:"1.0.5";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.0.5.zip";s:5:"1.0.6";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.0.6.zip";s:5:"1.0.7";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.0.7.zip";s:5:"1.1.0";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.1.0.zip";s:5:"1.1.1";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.1.1.zip";s:5:"1.1.2";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.1.2.zip";s:5:"1.1.3";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.1.3.zip";s:5:"1.1.4";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.1.4.zip";s:5:"1.1.5";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.1.5.zip";s:5:"1.1.6";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.1.6.zip";s:5:"1.1.7";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.1.7.zip";s:5:"1.1.8";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.1.8.zip";s:5:"1.2.0";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.2.0.zip";s:5:"1.2.1";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.2.1.zip";s:5:"1.2.2";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.2.2.zip";s:5:"1.2.3";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.2.3.zip";s:5:"1.2.4";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.2.4.zip";s:5:"1.2.5";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.2.5.zip";s:5:"1.2.6";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.2.6.zip";s:5:"1.2.7";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.2.7.zip";s:5:"1.2.8";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.2.8.zip";s:5:"1.2.9";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.2.9.zip";s:5:"1.3.0";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.3.0.zip";s:5:"1.3.1";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.3.1.zip";s:5:"1.3.2";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.3.2.zip";s:5:"1.3.3";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.3.3.zip";s:5:"1.3.4";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.3.4.zip";s:5:"1.3.5";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.3.5.zip";s:5:"1.3.6";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.3.6.zip";s:5:"1.3.7";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.3.7.zip";s:5:"1.3.8";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.3.8.zip";s:5:"1.3.9";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.3.9.zip";s:5:"1.4.0";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.4.0.zip";s:5:"1.4.1";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.4.1.zip";s:5:"1.4.2";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.4.2.zip";s:5:"1.4.3";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.4.3.zip";s:5:"1.4.4";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.4.4.zip";s:5:"1.4.5";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.4.5.zip";s:5:"1.4.6";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.4.6.zip";s:5:"1.4.7";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.4.7.zip";s:5:"1.4.8";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.4.8.zip";s:5:"1.4.9";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.4.9.zip";s:5:"1.5.0";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.5.0.zip";s:5:"1.5.1";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.5.1.zip";s:5:"1.5.2";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.5.2.zip";s:5:"1.5.3";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.5.3.zip";s:5:"1.5.4";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.5.4.zip";s:5:"1.5.5";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.5.5.zip";s:5:"1.5.6";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.5.6.zip";s:5:"1.5.7";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.5.7.zip";s:5:"1.5.8";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.5.8.zip";s:5:"1.5.9";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.5.9.zip";s:5:"1.6.0";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.6.0.zip";s:5:"1.6.1";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.6.1.zip";s:5:"1.6.2";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.6.2.zip";s:5:"1.6.3";s:63:"https://downloads.wordpress.org/plugin/gallery-videos.1.6.3.zip";s:5:"trunk";s:57:"https://downloads.wordpress.org/plugin/gallery-videos.zip";}s:11:"donate_link";s:40:"https://total-soft.com/wp-video-gallery/";s:5:"icons";a:1:{s:2:"1x";s:67:"https://ps.w.org/gallery-videos/assets/icon-128x128.jpg?rev=1451458";}s:12:"contributors";a:0:{}s:6:"market";N;s:11:"custom_link";N;}}
