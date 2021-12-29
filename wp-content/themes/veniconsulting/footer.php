@@ -1,6 +1,6 @@
 <footer class="bd-footer bg-light">
     <hr />
-    <div class="row row-md-1 row-lg-4">
+    <div class="row row-md-1 row-lg-4 mx-0">
         <div class="col text-center">
             <h5>Unsere Partner</h5>
             <div class="footer-slot my-1 d-flex flex-column">

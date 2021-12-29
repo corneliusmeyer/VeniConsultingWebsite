@@ -1,6 +1,6 @@
 <?php get_header(); ?>
-    <main>
-        <div></div>
-    </main>
+
+<main>
+    <?php dynamic_sidebar('infowarning'); ?>
+</main>
 <?php get_footer(); ?>
-    

@@ -4,54 +4,36 @@
 <head>
     <meta charset="<?php bloginfo('charset'); ?>">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?php bloginfo('name');?></title>
+    <title><?php bloginfo('name'); ?></title>
     <link type="text/css" href="<?php bloginfo('template_url'); ?>/css/bootstrap.css" rel="stylesheet">
-	<link type="text/css" href="<?php bloginfo('stylesheet_url'); ?>" rel="stylesheet">
+    <link type="text/css" href="<?php bloginfo('stylesheet_url'); ?>" rel="stylesheet">
     <?php wp_head(); ?>
 </head>
 
 <body>
     <header>
         <figure>
-            <a href="index.html"><img id="logo" src="<?php bloginfo('template_url'); ?>/media/veni-logo.png" height="10%" width="10%" alt="Veni Logo"></a>
+            <?php if (!is_home()) : ?>
+                <a href="index.html"><img id="logo" src="<?php bloginfo('template_url'); ?>/media/veni-logo.png" height="8%" width="auto" alt="Veni Logo"></a>
+            <?php else : ?>
+                <img id="veni-background" src="<?php bloginfo('template_url'); ?>/media/veni-background.jpg" alt="Veni Hintergrundbild" />
+            <?php endif; ?>
         </figure>
     </header>
-    <nav>
-        <div class="navbar navbar-expand-sm navbar-light bg-secondary mx-2 py-0">
-            <div class="collapse navbar-collapse" id="navbarScroll">
-                <ul class="navbar-nav">
-                    <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="leistungen.html">
-                            <b>Unsere Leistungen</b></a>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link active" id="navbarWerSindWir" role="button" data-bs-toggle="dropdown"
-                            aria-expanded="false">
-                            <b>Wer sind wir?</b>
-                        </a>
-                        <ul class="dropdown-menu" aria-labelledby="navbarWerSindWir">
-                            <li><a class="dropdown-item" href="vision.html">Unsere Vision</a></li>
-                            <li><a class="dropdown-item" href="about.html">Über uns</a></li>
-                        </ul>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link active" id="navbarNachhaltigkeit" role="button" data-bs-toggle="dropdown"
-                            aria-expanded="false">
-                            <b>Rund um Nachhaltigkeit</b>
-                        </a>
-                        <ul class="dropdown-menu bg-light my-3" aria-labelledby="navbarNachhaltigkeit">
-                            <li><a class="dropdown-item" href="glossar.html">Nachhaltigkeitsglossar</a></li>
-                            <li><a class="dropdown-item" href="blog.html">Nachhaltigkeitsblog</a></li>
-                        </ul>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link active" aria-current="page"><b>Mitglied werden</b></a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="kontakt.html"><b>Kontakt</b></a>
-                    </li>
-                </ul>
-            </div>
-        </div>
+    <nav class="navbar navbar-expand-md navbar-light bg-secondary py-0" role="navigation">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#bs-example-navbar-collapse-1" aria-controls="bs-example-navbar-collapse-1" aria-expanded="false" aria-label="<?php esc_attr_e('Toggle navigation', get_template()); ?>">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <?php
+        wp_nav_menu(array(
+            'theme_location'    => 'primary',
+            'depth'             => 2,
+            'container'         => 'div',
+            'container_class'   => 'collapse navbar-collapse',
+            'container_id'      => 'bs-example-navbar-collapse-1',
+            'menu_class'        => 'nav navbar-nav',
+            'fallback_cb'       => 'WP_Bootstrap_Navwalker::fallback',
+            'walker'            => new WP_Bootstrap_Navwalker(),
+        ));
+        ?>
     </nav>
-    
