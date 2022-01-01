@@ -14,13 +14,13 @@
     <header>
         <figure>
             <?php if (!is_home()) : ?>
-                <a href="index.html"><img id="logo" src="<?php bloginfo('template_url'); ?>/media/veni-logo.png" height="8%" width="auto" alt="Veni Logo"></a>
+                <a href="index.html"><img id="logo" src="<?php bloginfo('template_url'); ?>/media/veni-logo.png" alt="Veni Logo"></a>
             <?php else : ?>
                 <img id="veni-background" src="<?php bloginfo('template_url'); ?>/media/veni-background.jpg" alt="Veni Hintergrundbild" />
             <?php endif; ?>
         </figure>
     </header>
-    <nav class="navbar navbar-expand-md navbar-light bg-secondary py-0" role="navigation">
+    <nav class="navbar navbar-expand-md navbar-light py-0" role="navigation">
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#bs-example-navbar-collapse-1" aria-controls="bs-example-navbar-collapse-1" aria-expanded="false" aria-label="<?php esc_attr_e('Toggle navigation', get_template()); ?>">
             <span class="navbar-toggler-icon"></span>
         </button>

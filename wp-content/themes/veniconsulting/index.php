@@ -1,6 +1,9 @@
 <?php get_header(); ?>
 
 <main>
-    <?php dynamic_sidebar('infowarning'); ?>
+    <div class="container">
+        <?php dynamic_sidebar('infowarning'); ?>
+        <h5>Warum wir?</h5>
+    </div>
 </main>
 <?php get_footer(); ?>
