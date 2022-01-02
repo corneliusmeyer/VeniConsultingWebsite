@@ -36,3 +36,5 @@ function max_excerpt_length() {
 }
 
 add_filter('excerpt_length', 'max_excerpt_length');
+
+require get_template_directory(). '/inc/customizer.php';

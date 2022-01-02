@@ -14,7 +14,7 @@
     <header>
         <figure>
             <?php if (!is_home()) : ?>
-                <a href="index.html"><img id="logo" src="<?php bloginfo('template_url'); ?>/media/veni-logo.png" alt="Veni Logo"></a>
+                <a href="<?php echo home_url(); ?>"><img id="logo" src="<?php bloginfo('template_url'); ?>/media/veni-logo.png" alt="Veni Logo"></a>
             <?php else : ?>
                 <img id="veni-background" src="<?php bloginfo('template_url'); ?>/media/veni-background.jpg" alt="Veni Hintergrundbild" />
             <?php endif; ?>

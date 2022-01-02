@@ -25,7 +25,7 @@
         <div class="col text-center">
             <h5>Mitglied werden</h5>
             <div class="footer-slot my-1 d-flex flex-column">
-                <a href="impressum.html">Impressum</a>
+                <a href="https://veni-consulting.de/?page_id=104">Impressum</a>
                 <a href="datenschutz.html">Datenschutz</a>
             </div>
         </div>
