@@ -27,6 +27,13 @@ function veni_init_widgets($id){
     'before_widget' => '<div class="alert alert-success border border-secondary text-center my-3 py-0 align-middle">',
     'after_widget'  => '</div>',
   ));
+
+  register_sidebar(array(
+    'name' => 'Bereich',
+    'id' => 'bereich',
+    'before_widget' => '<div>',
+    'after_widget' => '</div>',
+  ));
 }
 
 add_action('widgets_init', 'veni_init_widgets');
