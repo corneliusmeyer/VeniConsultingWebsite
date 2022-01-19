@@ -20,7 +20,7 @@
             <?php endif; ?>
         </figure>
     </header>
-    <nav class="navbar navbar-expand-md navbar-light py-0" role="navigation">
+    <nav class="navbar navbar-expand-md navbar-light bg-light py-0 border border-dark m-1 rounded-1" role="navigation">
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#bs-example-navbar-collapse-1" aria-controls="bs-example-navbar-collapse-1" aria-expanded="false" aria-label="<?php esc_attr_e('Toggle navigation', get_template()); ?>">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -37,3 +37,9 @@
         ));
         ?>
     </nav>
+    <main>
+    <div class="container py-2">
+    <?php if (!is_home()) : ?>
+        <h2 class="py-4"><?php echo get_the_title() ?></h2>
+    <?php endif; ?>
+

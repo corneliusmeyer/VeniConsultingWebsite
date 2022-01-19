@@ -1,7 +1,4 @@
 <?php get_header(); ?>
-<main>
-    <div class="container py-2">
-        <h2 class="py-5">Unser Blog</h2>
         <span>
             Kennen Sie den IPCC Report? Oder wissen Sie was es mit dem neuen Lieferkettengesetz auf sich hat? Was CSRD-Richtlinie mit sich bringt? Hier wird all dies neben weiteren aktuellen Themen rund um die Nachhaltigkeit beleuchtet. Schauen Sie regelmäßig vorbei, um keine News zu verpassen.
         </span>
@@ -36,6 +33,4 @@
         <?php else : ?>
             <p class="text-danger my-5"><b>Es wurde noch nichts gepostet. Kommen Sie bitte später nochmal wieder.</b></p>
         <?php endif; ?>
-    </div>
-</main>
 <?php get_footer(); ?>

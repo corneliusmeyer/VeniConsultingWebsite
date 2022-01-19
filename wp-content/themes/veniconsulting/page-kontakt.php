@@ -1,10 +1,7 @@
 <?php get_header(); ?>
-<main>
-    <div class="container py-2">
-        <h2 class="py-4">Kontakt</h2>
         <div class="d-flex flex-row">
             <div class="col text-center d-flex flex-column">
-                <div class="footer-slot my-1">
+                <div class="footer-slot my-1 text-start">
                     <div class="fs-5 my-2">
                         <svg xmlns="http://www.w3.org/2000/svg" width="2vw" height="2vh" fill="currentColor" class="bi bi-geo-alt-fill" viewBox="0 0 16 16">
                             <path d="M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10zm0-7a3 3 0 1 1 0-6 3 3 0 0 1 0 6z">
@@ -30,9 +27,12 @@
             </div>
             <div class="vr"></div>
             <div class="col">
-            <?php dynamic_sidebar('bereich'); ?>
+                <?php if(have_posts()) {
+                    while(have_posts())
+                        the_post();
+                        the_content();
+                    }
+                ?>
             </div>
         </div>
-    </div>
-</main>
 <?php get_footer(); ?>
