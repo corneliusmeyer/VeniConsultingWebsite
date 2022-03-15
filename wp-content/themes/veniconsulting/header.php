@@ -12,15 +12,21 @@
 
 <body>
     <header>
-        <figure>
-            <?php if (!is_home()) : ?>
-                <a href="<?php echo home_url(); ?>"><img id="logo" src="<?php bloginfo('template_url'); ?>/media/veni-logo.png" alt="Veni Logo"></a>
-            <?php else : ?>
-                <img id="veni-background" src="<?php bloginfo('template_url'); ?>/media/veni-background.jpg" alt="Veni Hintergrundbild" />
-            <?php endif; ?>
-        </figure>
+        <?php if (!is_home()) : ?>
+            <figure>
+                <a href="<?php echo home_url(); ?>"><img id="logo" class="mx-5" src="<?php bloginfo('template_url'); ?>/media/veni-logo.png" alt="Veni Logo"></a>
+            </figure>
+        <?php else : ?>
+            <div id="landing-header-div">
+                <div id="landing-img-text">
+                     <h1 id="landing-img-h1">Veni Consulting.</h1>
+                     <h2 id="landing-img-h2">Die studentische Taskforce Sustainability</h2>
+                </div>
+            </div>
+        <?php endif; ?>
+
     </header>
-    <nav class="navbar navbar-expand-md navbar-light bg-light py-0 border border-dark m-1 rounded-1" role="navigation">
+    <nav class="navbar navbar-expand-md navbar-light bg-light py-0 border border-dark my-3 mx-5 rounded-1" role="navigation">
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#bs-example-navbar-collapse-1" aria-controls="bs-example-navbar-collapse-1" aria-expanded="false" aria-label="<?php esc_attr_e('Toggle navigation', get_template()); ?>">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -31,15 +37,14 @@
             'container'         => 'div',
             'container_class'   => 'collapse navbar-collapse',
             'container_id'      => 'bs-example-navbar-collapse-1',
-            'menu_class'        => 'nav navbar-nav',
+            'menu_class'        => 'nav navbar-nav float-none d-flex justify-content-around w-100',
             'fallback_cb'       => 'WP_Bootstrap_Navwalker::fallback',
             'walker'            => new WP_Bootstrap_Navwalker(),
         ));
         ?>
     </nav>
     <main>
-    <div class="container py-2">
-    <?php if (!is_home()) : ?>
-        <h2 class="py-4"><?php echo get_the_title() ?></h2>
-    <?php endif; ?>
-
+        <div class="container py-2">
+            <?php if (!is_home()) : ?>
+                <h2 class="py-4"><?php echo get_the_title() ?></h2>
+            <?php endif; ?>

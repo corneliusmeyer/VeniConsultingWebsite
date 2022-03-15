@@ -28,24 +28,6 @@ function bootstrap5_dropdown_fix( $atts ) {
      return $atts;
 }
 
-function veni_init_widgets($id){
-  register_sidebar(array(
-    'name'  => 'InfoWarning',
-    'id'    => 'infowarning',
-    'before_widget' => '<div class="alert alert-success border border-secondary text-center my-3 py-0 align-middle">',
-    'after_widget'  => '</div>',
-  ));
-
-  register_sidebar(array(
-    'name' => 'Ausgraubaerer Bereich',
-    'id' => 'revealing_area',
-    'before_widget' => '<div class="revealing-area">',
-    'after_widget' => '</div>',
-  ));
-}
-
-add_action('widgets_init', 'veni_init_widgets');
-
 function max_excerpt_length() {
   return 50;
 }
