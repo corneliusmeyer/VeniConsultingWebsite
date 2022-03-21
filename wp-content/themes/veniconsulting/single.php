@@ -1,5 +1,5 @@
 <?php get_header(); ?>
-    <a href="https://veni-consulting.de/?page_id=25" class="btn btn-sm btn-outline-secondary my-3">Zurück zur Übersicht</a>
+    <a href="/blog" class="btn btn-sm btn-outline-secondary my-3">Zurück zur Übersicht</a>
         <?php if (have_posts()) : ?>
             <?php while (have_posts()) : the_post(); ?>
                 <div class="blog-post my-4">

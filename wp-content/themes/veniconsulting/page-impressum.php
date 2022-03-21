@@ -1,6 +1,8 @@
 <?php get_header(); ?>
-        <p>Veni Consulting</p>
-        <p>Emil-Figge-Str. 44</p>
-        <p>44227 Dortmund</p>
-        <p>kontakt@veni-consulting.de</p>
+        <?php if (have_posts()) {
+                while (have_posts())
+                        the_post();
+                the_content();
+        }
+        ?>
 <?php get_footer(); ?>
