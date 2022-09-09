@@ -21,6 +21,7 @@
                 <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
             </svg>
             <script>
+				//Entfernt den Scrollhint, nachdem gescrollt wurde
                 document.addEventListener('scroll', function(e) {
                     var element = document.getElementById("scroll-hint");
                     element.remove();
@@ -28,10 +29,17 @@
             </script>
         </div>
     </header>
+	
+	<!-- Navigationsbar -->
     <nav class="navbar navbar-expand-md navbar-light bg-light py-0 border border-dark my-3 mx-5 rounded-1" role="navigation">
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#bs-example-navbar-collapse-1" aria-controls="bs-example-navbar-collapse-1" aria-expanded="false" aria-label="<?php esc_attr_e('Toggle navigation', get_template()); ?>">
-            <span class="navbar-toggler-icon"></span>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#bs-example-navbar-collapse-1" 
+			aria-controls="bs-example-navbar-collapse-1" aria-expanded="false"
+			aria-label="<?php esc_attr_e('Toggle navigation', get_template()); ?>">  
+			<!-- Erste Vorbereitungen für Mobile Support! Nicht vollendet -->
+				<span class="navbar-toggler-icon"></span>
         </button>
+		
+		<!-- Einbinden der Menüinhalte aus Wordpress  -->
         <?php
         wp_nav_menu(array(
             'theme_location'    => 'primary',
@@ -45,15 +53,20 @@
         ));
         ?>
     </nav>
+	
     <main>
         <div class="container py-2">
+			<!-- Der Banner der auf der Landingpage angezeigt werden soll -->
             <div class="alert alert-success border border-secondary text-center my-3 py-2 align-middle text-dark">
                 <?php echo get_theme_mod('banner_1') ?>
             </div>
+			<!-- Wordpress Schleife zum Abfragen des Seiteninhalts -->
             <?php if (have_posts()) {
-                while (have_posts())
-                    the_post();
-                the_content();
-            }
+					while (have_posts()) {
+						the_post();
+						the_content();
+					}
+				  }	
             ?>
-            <?php get_footer(); ?>
+<!-- Den Footer einbinden -->
+<?php get_footer(); ?>

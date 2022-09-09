@@ -18,12 +18,15 @@
                     </div>
                 </div>
             </div>
+			<!-- Vertikaler Balken -->
             <div class="vr"></div>
             <div class="col">
                 <?php if(have_posts()) {
-                    while(have_posts())
-                        the_post();
-                        the_content();
+						while(have_posts()) {
+							//Seiteninhalt abfragen
+							the_post();
+							the_content();
+						}
                     }
                 ?>
             </div>
