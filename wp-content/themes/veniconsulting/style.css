@@ -38,6 +38,8 @@ main {
     position: absolute;
     top: 40%;
     right: 20%;
+    height: 30%;
+    width: 60%;
 }
 
 footer{
@@ -51,35 +53,43 @@ footer{
     background-size: cover;
 }
 
-#landing-img-h1 {
-    margin-bottom: 0.5rem;
-    font-weight: 500%;
-    line-height: 1.2;
-    color: white;
-    font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
-    font-size: 500%;
-    animation: fadeInAnimation ease 2s;
-    animation-iteration-count: 1;
-    animation-fill-mode: forwards;
-}
-
-#landing-img-h2 {
-    margin-bottom: 0.5rem;
-    font-weight: 400%;
-    line-height: 1.2;
-    color: white;
-    font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
-    font-style: italic;
-    font-size: 200%;
-    animation: fadeInAnimation ease 4s;
-    animation-iteration-count: 1;
-    animation-fill-mode: forwards;
-}
 
 /*
 Animation
 https://www.geeksforgeeks.org/how-to-create-fade-in-effect-on-page-load-using-css/
 */
+
+
+#landing-img-h1 {
+    color: white;
+    font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+    font-size: 5rem;
+    animation: sonnenaufgang ease 2s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+#landing-img-h2 {
+    color: white;
+    font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+    font-style: italic;
+    font-size: 2rem;
+    animation-fill-mode: forwards;
+    animation: sonnenaufgang ease 4s;
+    animation-iteration-count: 1;
+}
+
+@keyframes sonnenaufgang {
+    0% {
+        opacity: 0;
+        color: orange;
+    }
+    100% {
+        opacity: 1;
+        color: white;
+     }
+}
+
 
 #scroll-hint {
     position: absolute;
@@ -89,18 +99,6 @@ https://www.geeksforgeeks.org/how-to-create-fade-in-effect-on-page-load-using-cs
     width: 8vw;
     color: white;
     animation: pulse 1s linear infinite;
-}
-
-
-@keyframes fadeInAnimation {
-    0% {
-        opacity: 0;
-        color: orange;
-    }
-    100% {
-        opacity: 1;
-        color: white;
-     }
 }
 
 @keyframes pulse {

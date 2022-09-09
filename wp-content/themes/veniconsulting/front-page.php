@@ -14,8 +14,8 @@
     <header>
         <div id="landing-header-div">
             <div id="landing-img-text">
-                <h1 id="landing-img-h1">Veni Consulting.</h1>
-                <h2 id="landing-img-h2">Die Beratung, um Ihr Unternehmen nachhaltiger zu gestalten</h2>
+                <h1 id="landing-img-h1"><?php echo get_bloginfo('name'); ?></h1>
+                <h2 id="landing-img-h2"><?php echo get_bloginfo('description'); ?></h2>
             </div>
             <svg id="scroll-hint" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
                 <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
@@ -47,8 +47,8 @@
     </nav>
     <main>
         <div class="container py-2">
-            <div class="alert alert-success border border-secondary text-center my-1 py-2 align-middle text-dark">
-                Kontaktieren Sie uns jetzt für ein Erstgespräch und lassen Sie uns gemeinsam mehr Nachhaltigkeit in Ihr Unternehemen bringen!
+            <div class="alert alert-success border border-secondary text-center my-3 py-2 align-middle text-dark">
+                <?php echo get_theme_mod('banner_1') ?>
             </div>
             <?php if (have_posts()) {
                 while (have_posts())

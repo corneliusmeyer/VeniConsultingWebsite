@@ -28,10 +28,10 @@ function bootstrap5_dropdown_fix( $atts ) {
      return $atts;
 }
 
-function max_excerpt_length() {
+function custom_excerpt_length() {
   return 50;
 }
 
-add_filter('excerpt_length', 'max_excerpt_length');
+add_filter('excerpt_length', 'custom_excerpt_length');
 
 require get_template_directory(). '/inc/customizer.php';

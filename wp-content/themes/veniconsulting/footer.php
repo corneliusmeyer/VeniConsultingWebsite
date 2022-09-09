@@ -7,8 +7,8 @@
                 <div class="col text-center">
                     <h5>Unsere Partner</h5>
                     <div class="footer-slot my-1 d-flex flex-column">
-                        <a class="my-3" href="#"><img src="public/img/bdsu.png"></a>
-                        <a class="my-3" href="#"><img src="public/img/entertainers.png"></a>
+                        <a class="my-2" href=<?php echo get_theme_mod('partner1_url') ?>><img style="width:80x;height:65px;" src=<?php echo get_theme_mod('partner1_image') ?>></a>
+                        <a class="my-1" href=<?php echo get_theme_mod('partner2_url') ?>><img style="width:80x;height:65px;" src=<?php echo get_theme_mod('partner2_image') ?>></a>
                     </div>
                 </div>
 
@@ -20,7 +20,7 @@
                         <a href="about">Über uns</a>
                     </div>
                     <div class="footer-slot my-3 d-flex flex-column">
-                        <a href=glossar>Nachhaltigkeitsglossar</a>
+                        <a href="glossar">Nachhaltigkeitsglossar</a>
                         <a href="blog">Nachhaltigkeitsblog</a>
                     </div>
                 </div>
