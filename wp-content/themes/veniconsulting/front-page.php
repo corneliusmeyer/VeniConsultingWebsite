@@ -32,13 +32,6 @@
 	
 	<!-- Navigationsbar -->
     <nav class="navbar navbar-expand-md navbar-light bg-light py-0 border border-dark my-3 mx-5 rounded-1" role="navigation">
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#bs-example-navbar-collapse-1" 
-			aria-controls="bs-example-navbar-collapse-1" aria-expanded="false"
-			aria-label="<?php esc_attr_e('Toggle navigation', get_template()); ?>">  
-			<!-- Erste Vorbereitungen für Mobile Support! Nicht vollendet -->
-				<span class="navbar-toggler-icon"></span>
-        </button>
-		
 		<!-- Einbinden der Menüinhalte aus Wordpress  -->
         <?php
         wp_nav_menu(array(
